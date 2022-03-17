@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://paintingthecorners.com/sitemap.xml
